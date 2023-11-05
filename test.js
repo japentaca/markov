@@ -113,8 +113,8 @@ let obj = {
     }
   ]
 }
-let obj1 = create_markov(["a", "b", "c", "d", "e"])
-//console.log("obj1", obj1)
+let obj1 = create_markov(["a", "b", "c"])
+console.log("obj1", obj1)
 let mark = new CtrlMarkov(obj1)
 let res
 for (let i = 0; i < 105; i++) {

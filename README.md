@@ -1,2 +1,2 @@
 # markov
-Adaptación de la función MarkovChain que abandonó el equipo de ToneJS
+Adaptación de la función CtrlMarkov que abandonó el equipo de ToneJS
